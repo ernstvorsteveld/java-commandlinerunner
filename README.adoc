@@ -1,0 +1,7 @@
+= Simple command line runner
+
+.Execute the command line
+[source,bash]
+----
+java -jar commandlinedemo-0.0.1-SNAPSHOT.jar test help
+----
